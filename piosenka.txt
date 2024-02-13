@@ -3,7 +3,4 @@ refren-1.txt
 zwrotka-2.txt
 refren-2.txt
 zwrotka-3.txt
-This city, this city is haunted
-By ghosts (ghosts) from broken homes (homes)
-Because this city, this city is haunted
-And there's no hope (hope) left for these souls (souls)
+refren-3.txt
